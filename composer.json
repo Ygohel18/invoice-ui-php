@@ -1,0 +1,13 @@
+{
+    "name": "planckstudio/invoice",
+    "description": "Invoice Management",
+    "authors": [
+        {
+            "name": "PlanckStudio",
+            "email": "developer@planckstudio.in"
+        }
+    ],
+    "require-dev": {
+        "fakerphp/faker": "^1.23"
+    }
+}

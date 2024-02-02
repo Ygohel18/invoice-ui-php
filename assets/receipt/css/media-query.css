@@ -1,0 +1,1666 @@
+@media (max-width: 991px) {
+	.container {
+		padding: 0 40px;
+	}
+	.coffee-triangle-image{
+		display: none;
+	}
+	.invoice-logo-content-coffee{
+		justify-content: space-between;
+	}
+	.ecommerce .bus-invo-date .width-30{
+		width: auto;
+	}
+	.coffee-black{
+		width: 10%;
+	}
+	.brown-bg{
+		width: 100%;
+	}
+	.invo-head-content-coffee{
+		width: 60%;
+	}
+	.coffee-bottom-sec {
+		width: auto;
+	}
+	.coffee-bottom-contact {
+		width: 100%;
+	}
+	.header-top-coffee{
+		width: 100%;
+		padding-top: 30px;
+		padding-bottom: 20px;
+	}
+	.student-header{
+		padding: 30px 0 0 40px;
+	}
+	.coffee-txt{
+		text-align: center;
+	}
+	.invoice-logo-content-flight {
+		padding: 0 40px;
+	}
+	.student-txt{
+		padding-left: 50px;
+	}
+	.invoice-logo-domain img{
+		padding-left: 40px;
+	}
+	.car-invoice .car-header-img{
+		padding: 30px 40px 0 40px;
+	}
+	.domain-txt{
+		margin-top: 30px;
+	}
+	.domain-img{
+		padding-right: 40px;
+	}
+	.domain-invoice .invoice-logo-content-domain:before{
+		width: 100%;
+	}
+	.domain-owner{
+		margin-top: 40px;
+	}
+	.domain-detail-wrap {
+		margin-top: 0px;
+	}
+	.car-bottom-sec{
+		padding: 40px 40px 0;
+	}
+	.movie .invoice-logo-movie,
+	.ecommerce-header {
+		padding: 30px 40px;
+	}
+	.stadium-header {
+		padding-left: 40px;
+	}
+	.movie .invo-bill-total.width-30 {
+		width: 100%;
+	}
+	.movie-col-left img{
+		width: 100%;
+	}
+	.hospital-txt{
+		font-size: 30px;
+	}
+	.hospital-header {
+		padding: 30px 40px;
+	}
+	.money-invoice .transfer-wrap{
+		padding-bottom: 0;
+	}
+	.agency-contact-sec{
+		padding: 15px 40px;
+	}
+	.restaurant-header {
+		padding: 0 40px;
+	}
+	.restaurant .invoice-owner-conte-wrap.pt-20{
+		padding-top: 0;
+	}
+	.train-invoice .invoice-logo-content {
+		column-gap: 30px;
+		align-items: start;
+		padding-top: 30px;
+	}
+	.train-header {
+		padding-left: 40px;
+	}
+	.train-invoice .invoice-header-contact{
+		display: block;
+	}
+	.train-invoice .invo-cont-wrap:nth-child(2){
+		padding-top: 20px;
+	}
+	.ecommerce .agency-contact-sec{
+		padding: 15px 40px;
+	}
+	.internet .invo-car-book-wrap1.mt {
+		margin-top: 0;
+	}
+	.internet-images{
+		padding-left: 40px;
+	}
+	.agency1 .invo-bill-total.width-30{
+		width: 40%;
+	}
+	.bus-detail-sec{
+		margin-top: 0;
+	}
+	.travel-txt-bg{
+		letter-spacing: 20px;
+	}
+	.cleaning-svg {
+		width: 100%;
+	}
+	.photo-header-img,
+	.photo-footer-sec-img img{
+		width: 100%;
+	}
+	.cleaning-header {
+		padding-left: 40px;
+	}
+	.cleaning-invoice .cleaning-img-bottom-sec-wrap{
+		padding-right: 40px;
+	}
+	.internet-content{
+		padding: 30px 40px 0;
+	}
+	.fitness-header-wrap {
+		border-radius: 0px 0px 0px 0px;
+		background: #12151C;
+		padding: 30px 0 30px 40px;
+	}
+	.fitness-contact-content{
+		width: auto;
+		column-gap: 20px;
+	}
+	.photostudio-table .sno-wid{
+		width: 8%;
+	}
+	.fitness-invoice-content{
+		padding: 10px 40px;
+	}
+	.travel-invoice .invo-bill-total {
+		width: 40%;
+	}
+	.content-min-width {
+		padding: 40px;
+	}
+	.md-lg-font {
+		font-size: 18px;
+	}
+	.invo-to-owner {
+		margin: 6px 0;
+	}
+	.invoice-table  .serv-wid {
+		width: 16%;
+	}
+	.invoice-table .desc-wid {
+		width: 27%;
+	}
+	.invoice-table .qty-wid {
+		width: 6.333333%;
+	}
+	.invoice-table .pric-wid {
+		width: 5.33333%;
+	}
+	.invoice-table .tota-wid {
+		width: 10%;
+	}
+	.invo-buttons-wrap .invo-btns .download-btn {
+		padding: 12px 18px;
+	}
+	.invo-btns span {
+		padding-left: 6px;
+	}
+	.text-invoice {
+		background-size: 88%;
+	}
+	.content-min-width.bus-header {
+		padding: 20px 40px 0;
+	}
+	.invo-time-col {
+		width: auto;
+	}
+	.invoice-timing-wrap {
+		padding: 26px 0 30px;
+	}
+	.invo-note-wrap {
+		align-items: flex-start;
+	}
+	.bus-img svg {
+		width: auto;
+		height: 110px;
+	}
+	.thank-you-content {
+		padding-top: 40px;
+	}
+	.booking-content-wrap {
+		column-gap: 4px;
+	}
+	.item-wid {
+		width: 13%;
+	}
+	.money-detail-wrap {
+		margin: 40px 0;
+	}
+	.transfer-wrap {
+		padding: 0 0 40px 0;
+	}
+	.paid-out-title-wrap {
+		padding-top: 40px;
+	}
+	.left-money-transfer {
+		flex-wrap: wrap;
+		display: flex;
+	}
+	.transfer-detail-wrap {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.movie-detail-col {
+		padding: 6px 6px;
+	}
+	.movie-details-wrap {
+		padding: 40px 0 0;
+		column-gap: 20px;
+	}
+	.hospital-table-wrap {
+		margin-top: 40px;
+	}
+	.table-wrapper.booker-table-wrap {
+		padding: 0;
+		margin: 0;
+	}
+	.invoice-header.stadium-header.content-min-width {
+		padding: 40px;
+	}
+	.invo-hotel-book-wrap {
+		padding-top: 40px;
+	}
+	.invo-hedaer-contact,
+	.invo-hedaer-mail {
+		font-size: 16px;
+	}
+	.mt-30{
+		margin-top: 20px;
+	}
+	.fitness-header .invoice-header-contact{
+		display: block;
+	}
+	.fitness-img img{
+		width: auto;
+		height: 120px;
+	}
+	.fitness-header{
+		width: 100%;
+	}
+	.photostudio-header{
+		padding: 30px 40px;
+	}
+	.flight-img img {
+		width: auto;
+		height: 100px;
+	}
+	.flight .invoice-timing-wrap.invoice-timing-wrap-flight{
+		padding-top: 30px;
+		padding-bottom: 0;
+	}
+	.invo-car-book-wrap.invo-car-book-wrap {
+		padding-bottom: 30px;
+		padding-top: 30px;
+	}
+	.car-invoice .invo-car-book-wrap.invo-car-book-wrap{
+		padding-bottom: 0;
+	}
+	.train-table-wrap{
+		margin-top: 30px;
+	}
+	.ecommerce-img-black{
+		right: -40px;
+	}
+	.pf-data{
+		padding-right: 0;
+	}
+	.invoice-logo-hotel{
+		width: auto;
+	}
+}
+@media (max-width: 767px) {
+	.pt-40{
+		padding-top: 30px;
+	}
+	.car-invoice .bus-conta-mail-wrap.car-conta-mail-wrap {
+		padding-top: 0px;
+	}
+	.money-invoice .transfer-wrap {
+		padding-top: 0;
+	}
+	.restaurant .rest-payment-bill .payment-wrap{
+		padding: 0;
+	}
+	.invo-pay-to-wrap-photo {
+		width: auto;
+	}
+	.invoice-logo-content.bg-black {
+		padding: 30px 30px;
+	}
+	.bus-invoice .invo-bill-total.bus-invo-total {
+		width: 40%;
+	}
+	.bus-invoice .agency-bottom-content{
+		padding-bottom: 0;
+	}
+	.photostudio-table .sno-wid {
+		width: 12%;
+	}
+	.invoice-table {
+		white-space: pre-wrap;
+	}
+	.hotel-sub {
+		padding-left: 16px!important;
+	}
+	.thank-you-content {
+		padding-top: 30px;
+	}
+	.booking-info p {
+		margin: 5px 0;	
+	}
+	.booking-info:before {
+		height: 30px;
+	}
+	.invoice-timing-wrap {
+		padding: 20px 0 22px;
+		justify-content: flex-start;
+		flex-wrap: wrap;
+	}
+	.bus-detail-wrap {
+		padding: 20px 20px;
+		gap: 16px 26px;
+	}
+	.bus-detail-col.border-bottom {
+		padding-bottom: 12px;
+	}
+	.bus-img svg {
+		width: auto;
+		height: 90px;
+	}
+	.hosp-back-img-two img {
+		width: 100%;
+		height: auto;
+		left: 0;
+	}
+	.hosp-back-img-one img {
+		width: 100%;
+		height: auto;
+		right: 0;
+	}
+	.payment-table-wrap.movie-detail-table-wrap {
+		overflow-x: auto;
+	}
+	.payment-table-wrap.movie-detail-table-wrap table {
+		width: 100%;
+		min-width: 550px;
+	}
+	.movie-detail-col .movie-name {
+		width: 108px;
+	}
+	.movie-col-left, .movie-col-right {
+		width: 100%;
+	}
+	.movie-img img {
+		width: 100%;
+		height: 100%;
+	}
+	.movie-details-wrap .movie-img {
+		margin: 0 auto;
+		text-align: center;
+	}
+	.payment-table-wrap.movie-detail-table-wrap {
+		margin-top: 30px;
+	}
+	.movie-details-wrap {
+		padding: 30px 0 0;
+	}
+	.invo-addition-wrap.movi-add-wrap .hotel-sub {
+		padding-left: 0px!important;
+	}
+	.movie-detail-col {
+		align-items: flex-start;
+	}
+	.invo-grand-total td {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.movie-col-right {
+		padding: 20px 0;
+	}
+	.rest-payment-bill table {
+		width: 100%;
+	}
+	.signature-wrap {
+		padding: 30px 0;
+		left: 0;
+	}
+	.rest-payment-bill {
+		display: flex;
+		flex-direction: column-reverse;
+		width: 100%;
+	}
+	.payment-wrap {
+		position: relative;
+	}
+	.sign-img img {
+		width: auto;
+		height: 100%;
+	}
+	.rest-payment-bill .payment-wrap {
+		padding: 0px 15px 0px 15px;
+	}
+	.rest-payment-bill .refund-days {
+		padding: 10px 0 10px 0px
+	}
+	.rest-payment-bill .pay-type {
+		padding: 10px 10px 10px 0px;
+	}
+	.money-img img  {
+		height: 100px;
+	}
+	.payment-wrap.payment-wrap-car{
+		width: 100%;
+	}
+	.bus-conta-mail-wrap.car-conta-mail-wrap{
+		padding-top: 30px;
+	}
+	.payment-wrap.payment-wrap-car{
+		margin-top: 0;
+	}
+	.train-table-wrap{
+		margin-top: 30px;
+	}
+	.domain-img img{
+		width: auto;
+		height: 120px;
+	}
+	.coffee-shop-img img {
+		width: auto;
+		height: 120px;
+	}
+	.cleaning-back-img-one img {
+		width: 100%;
+		height: auto;
+		right: 0;
+	}
+	.cleaning-back-img-two img{
+		width: 100%;
+		height: auto;
+		left: 0;
+	}
+}
+@media(max-width:600px){
+	.cleaning-svg, .cleaning-blue-img,
+	.movie .invo-head-content {
+		display: none; 
+	}
+	.domain-invoice .invoice-logo.invoice-logo-domain{
+		padding-top: 20px;
+	}
+	.coffee-black{
+		display: none;
+		width: auto;
+	}
+	.invoice-logo-coffee {
+		width: auto;
+	}
+	.invo-head-content-coffee {
+		width: auto;
+	}
+	.student .student-invoice-content{
+		display: none;
+	}
+	.student-logo-content{
+		width: 100%;
+	}
+	.domain-owner {
+		margin-top: 40px;
+	}
+	.domain-invoice .bus-detail-col {
+		display: block;
+	}
+	.domain-invoice .bus-type{
+		width: 100%;
+	}
+	.domain-invoice .invoice-logo-content-domain:before{
+		background-position: top right;
+	}
+	.car-invoice .invoice-logo.width-70,
+	.car-invoice .invo-head-content.width-30{
+		width: 50%;
+	}
+	.domain-owner {
+		margin-top: 30px;
+	}
+	.car-invoice .mon-send-left-data{
+		padding-right: 0;
+	}
+	.car-invoice .sign-img{
+		text-align: center;
+	}
+	.car-invoice .rest-payment-bill-fitness.pt-40{
+		padding-top: 0;
+	}
+	.car-invoice .signature-wrap-fitness{
+		margin-bottom: 30px;
+	}
+	.car-invoice .mon-sent-content-wrap{
+		justify-content: space-between;
+	}
+	.footer-img1 img{
+		display: none;
+	}
+	.ecommerce .invoice-table .tota-wid {
+		width: 14%;
+	}
+	.flight-img1 img{
+		width: 100%;
+	}
+	.flight-thanks-bg{
+		width: 100%;
+	}
+	.stadium-invoice .invoice-logo.width-30,
+	.stadium-invoice .stadium-title.width-70{
+		width: 100%;
+	}
+	.flight-contact-mail-wrap{
+		column-gap: 30px;
+	}
+	.stadium-first{
+		flex-direction: column-reverse;
+	}
+	.stadium-first-sec,
+	.stadium-second-sec,
+	.stadium-table-total{
+		width: 100%;
+	}
+	.stadium-title{
+		padding: 30px 0 20px 20px;
+	}
+	.stadium-first-sec{
+		margin-top: 30px;
+	}
+	.stadium-second:before{
+		background: none;
+		position: relative;
+	}
+	.stadium-second{
+		margin-top: 0;
+	}
+	.movie .invoice-table .qty-wid{
+		width: auto;
+	}
+	.hospital-green-box{
+		display: none;
+	}
+	.movie-details-wrap{
+		display: block;
+	}
+	.hospital-contact-details{
+		justify-content: space-between;
+	}
+	.hospital-invoice .invo-to-wrap.width-70,
+	.hospital-invoice .invo-pay-to-wrap.width-30
+	{
+		width: 50%;
+	}
+	.movie .invoice-logo-movie{
+		width: 100%;
+	}
+	.invo-head-wrap-hospital {
+		justify-content: flex-start;
+	}
+	.hospital-table-wrap {
+		margin-top: 30px;
+	}
+	.hospital-wid1{
+		width: 12%;
+	}
+	.hospital-contact {
+		width: 100%;
+	}
+	.restaurant .res-no {
+		width: 12%;
+	}
+	.invo-head-content.invoice-logo-hotel-left{
+		display: none;
+	}
+	.invoice-logo-hotel {
+		width: 100%;
+	}
+	.invoice-logo-hotel a{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.travel-txt-bg {
+		letter-spacing: 16px;
+		font-size: 30px;
+	}
+	.details-width{
+		width: 30%;
+	}
+	.cleaning-invoice .width-30,
+	.cleaning-invoice .width-70{
+		width: 100%;
+	}
+	.fitness-contact-wrap{
+		display: block;
+		margin-top: 20px;
+	}
+	.fitness-sec{
+		flex-direction: column-reverse;
+	}
+	.fitness-contact-content{
+		position: relative;
+		margin-top: 20px;
+	}
+	.cleaning-txt{
+		margin-top: 30px;
+	}
+	.cleaning-invoice .invoice-to-content{
+		margin-top: 30px;
+	}
+	.cleaning-img-bottom-sec-wrap{
+		flex-direction: column-reverse;
+		padding-right: 40px;
+	}
+	.cleaning-invoice .invo-bill-total.bus-invo-total{
+		width: 40%;
+	}
+	.fitness .sign-img{
+		text-align: center;
+	}
+	.payment-wrap-fitness.width-50,
+	.signature-wrap-fitness.width-30{
+		width: 100%;
+	}
+	.payment-wrap-fitness.width-50{
+		margin-top: 30px;
+	}
+	.travel-contact-sec {
+		padding: 15px 40px;
+	}
+	.travel-logo{
+		padding-left: 40px;
+		width: 50%;
+	}
+	.travel-bottom-sec-img img,
+	.footer-img2 img{
+		width: 100%;
+	}
+	.travel-txt{
+		width: 50%;
+	}
+}
+@media (max-width: 540px){
+	.agency-logo{
+		display: none;
+	}
+	.domain-invoice .invoice-logo.invoice-logo-domain{
+		padding-bottom: 20px;
+	}
+	.invoice-logo-domain img {
+		padding-left: 20px;
+	}
+	.invoice-logo-content.invoice-logo-content-domain{
+		flex-direction: row;
+	}
+	.coffee-txt{
+		display: none;
+	}
+	.header-top-coffee{
+		padding-top: 20px;
+	}
+	.domain-img{
+		padding-top: 50px;
+	}
+	.domain-footer-image>div:after,
+	.domain-footer-image:before,
+	.domain-footer-image:after{
+		width: calc(100% + 0px);
+	}
+	.invo-head-content-coffee {
+		width: 100%;
+		margin-top: 15px;
+		display: block;
+	}
+	.invo-head-content-coffee .invo-head-wrap{
+		justify-content:start;
+	}
+	.student-header {
+		padding: 30px 0 0 20px;
+	}
+	.car-invoice .invoice-logo-content{
+		display: block;
+	}
+	.car-invoice .car-bottom-sec {
+		padding: 40px 20px 0;
+	}
+	.car-invoice .bus-conta-mail-wrap{
+		padding: 0;
+	}
+	.car-invoice .car-header-img {
+		padding: 30px 20px 0 20px;
+	}
+	.car-txt{
+		display: none;
+	}
+	.fitness .invo-cont-wrap:last-child{
+		margin-top: 15px;
+	}
+	.ecommerce .invo-bill-total {
+		width: 100%;
+	}
+	.invoice-logo-content-flight {
+		padding: 0 20px;
+	}
+	.stadium-header {
+		padding-left: 20px;
+	}
+	.flight  .invo-head-wra{
+		display: block;
+	}
+	.invoice-owner-conte-wrap{
+		flex-direction: column-reverse;
+	}
+	.flight .invo-head-wrap.invoi-date-wrap,
+	.flight .invo-head-wrap{
+		display: flex;
+		justify-content: start;
+	}
+	.flight-txt {
+		text-align: left;
+	}
+	.stadium-invoice .book-table tbody tr:last-child td
+	{
+		padding-bottom: 0;
+	}
+	.invo-addition-wrap.movi-add-wrap {
+		flex-direction: row;
+	}
+	.flight .invo-addition-wrap{
+		flex-direction: column-reverse;
+	}
+	.flight .invo-to-wrap{
+		padding-top: 20px;
+	}
+	.flight .invo-bill-total{
+		width: 100%;
+	}
+	.flight .bus-term-cond-content{
+		margin-top: 20px;
+	}
+	.hospital-invoice .payemnt-wid{
+		text-align: left;
+	}
+	.flight-thanks-bg {
+		padding: 10px;
+		background-color: #12151c;
+	}
+	.movie .invoice-logo-movie{
+		padding: 30px 20px;
+	}
+	.hospital-header {
+		padding: 30px 20px;
+	}
+	.stadium-invoice .invoice-logo-content {
+		display: flex;
+		flex-direction: row;
+	}
+	.money-header {
+		padding-top: 30px;
+	}
+	.money-invoice .invoice-logo-content{
+		flex-direction: row;
+	}
+	.restaurant-header {
+		padding: 0 20px;
+	}
+	.restaurant .invo-pay-to-wrap{
+		padding-top: 20px;
+	}
+	.agency1 .invoice-owner-conte-wrap{
+		column-gap: 30px;
+	}
+	.agency-contact-sec{
+		padding: 15px 20px;
+	}
+	.train-thanks-bg{
+		padding: 20px 10px;
+	}
+	.hotel .invoice-owner-conte-wrap,
+	.restaurant .invoice-owner-conte-wrap,
+	.bus-invoice .invoice-owner-conte-wrap,
+	.money-invoice .invoice-owner-conte-wrap{
+		display: block;
+	}
+	.restaurant .invoice-logo-content {
+		flex-direction: row;
+	}
+	.hotel .invo-pay-to-wrap,
+	.bus-invoice .invo-pay-to-wrap,
+	.money-invoice .invo-pay-to-wrap {
+		padding-top: 20px;
+	}
+	.train-invoice  .invo-pay-to-wrap{
+		margin-top: 20px;
+	}
+	.train-header-sec{
+		display: none;
+	}
+	.train-invoice .invoice-owner-conte-wrap{
+		display: block;
+	}
+	.train-header {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.ecommerce .agency-contact-sec {
+		padding: 15px 20px;
+	}
+	.ecommerce .invoice-owner-conte-wrap{
+		display: block;
+	}
+	.ecommerce-img-black {
+		right: -20px;
+	}
+	.ecommerce .invo-pay-to-wrap{
+		margin-top: 30px;
+	}
+	.internet-content {
+		padding: 30px 20px 0;
+	}
+	.internet-images {
+		padding-left: 20px;
+	}
+	.internet-invoice {
+		/*padding-bottom: 80px;*/
+	}
+	.travel-invoice .invo-bill-total {
+		width: 100%;
+	}
+	.invo-bill-total.invo-bill-total-internet {
+		width: 100%;
+	}
+	.travel-contact-sec {
+		padding: 15px 20px;
+	}
+	.travel-logo {
+		padding-left: 20px;
+	}
+	.fitness-invoice-content {
+		padding: 10px 20px; 
+	}
+	.fitness-header-wrap{
+		padding: 30px 0 30px 20px;
+	}
+	.fitness .invo-add-info-content,
+	.fitness .invo-bill-total {
+		width: 100%;
+	}
+	.fitness-contact-content{
+		display: block;
+	}
+	.cleaning-invoice .cleaning-img-bottom-sec-wrap {
+		padding-right: 20px; 
+	}
+	.blue-img1-bottom img{
+		width: 100%;
+	}
+	.invo-head-wrap-clean{
+		justify-content: start;
+	}
+	.cleaning-header {
+		padding-left: 20px;
+	}
+	.cleaning-invoice .invo-bill-total.bus-invo-total {
+		width: 100%;
+	}
+	.cleaning-contact {
+		text-align: left;
+		padding-left: 20px;
+		margin-top: 30px;
+	}
+	.cleaning-invoice .invo-social-name{
+		padding-left: 0px;
+	}
+	.cleaning-invoice .term-condi-list.mt-30{
+		margin-top: 0;
+	}
+	.invoice-txt{
+		text-align: center;
+	}
+	.invoice-logo-content.bg-black {
+		padding: 20px;
+	}
+	.agency1 .invo-head-wrap{
+		justify-content: left;
+	}
+	.bus-invoice .invo-bill-total.bus-invo-total {
+		width: 100%;
+	}
+	.bus-detail-col {
+		display: block;
+	}
+	.photo-txt{
+		text-align: left;
+		font-size: 34px;
+		line-height: 34px;
+	}
+	.invo-head-wrap.invo-head-wrap-photo {
+		justify-content: start;
+	}
+	.photostudio .invo-add-info-content,
+	.photostudio .invo-bill-total {
+		width: 100%;
+	}
+	.photo-logo{
+		bottom: -10px;
+		right: 20px;
+	}
+}
+@media (max-width: 500px){
+	.bus-invoice .bus-header-logo{
+		display: block;
+	}
+	.bus-conta-mail-wrap.coffee-conta-mail-wrap{
+		column-gap: 30px;
+	}
+	.internet-content {
+		padding: 20px 20px 0;
+	}
+	.coffee-mail{
+		padding-top: 15px;
+	}
+	.stadium-title {
+		display: none;
+	}
+	.flight-contact-mail-wrap{
+		display: block;
+	}
+	.flight .bus-invo-date.flight-mail{
+		margin-top: 15px;
+	}
+	.stadium-header{
+		padding-top: 30px;
+	}
+	.stadium-table{
+		display: block;
+	}
+	.stadium-table:nth-child(3) div:last-child, 
+	.stadium-table:last-child div:last-child {
+		padding-top: 0;
+	}
+	.hospital-contact-details{
+		display: block;
+	}
+	.restaurant .logo img {
+		width: 100%;
+	}
+	.hospital-contact-details .invo-cont-wrap:last-child{
+		margin-top: 15px;
+	}
+	.agency1 .invoice-owner-conte-wrap{
+		display: block;
+	}
+	.pt-40{
+		padding-top: 20px;
+	}
+	.agency1 .invo-pay-to-wrap{
+		margin-top: 20px;
+	}
+	.internet-invoice {
+		padding-bottom: 60px;
+	}
+	.blue-img1-bottom img{
+		width: 100%;
+	}
+	.bus-txt{
+		text-align: left;
+		margin-top: 30px;
+	}
+	.bus-header-logo .wid-50{
+		width: 100%;
+	}
+	.bus-invoice .invo-head-wrap{
+		justify-content: left;
+	}
+	.bus-detail-col {
+		display: block;
+	}
+	.travel-invoice .bus-invo-num-travel{
+		column-gap: 0;
+	}
+	.travel-invoice .travel-detail-wrap{
+		margin-top: 30px;
+	}
+	.internet .invoice-owner-conte-wrap{
+		flex-direction: column-reverse;
+	}
+	.internet .invo-pay-to-wrap,
+	.internet .invo-to-wrap{
+		margin-top: 30px;
+	}
+	.hospital-invoice .invoice-owner-conte-wrap{
+		display: block;
+	}
+	.hospital-invoice .invo-pay-to-wrap{
+		margin-top: 20px;
+	}
+	.hospital-invoice .invo-to-wrap.width-70, .hospital-invoice .invo-pay-to-wrap.width-30{
+		width: 100%;
+	}
+}
+@media (max-width: 580px) {
+	.movie-details-wrap {
+		flex-wrap: wrap;
+	}
+	.agency1 .invo-bill-total.width-30 {
+		width: 100%;
+	}
+	.pf-data {
+		padding-right: 0;
+	}
+	.student_header {
+		padding: 30px;
+	}
+	.mt-30 {
+		margin-top: 10px;
+	}
+	.coffee-shop-back-img-one img{
+		width: 500px;
+	}
+	.bus-type{
+		width: auto;
+	}
+	.bus-detail-col{
+		display: block;
+	}
+	.invoice-header-contact-photostudio{
+		display: block;
+	}
+	.ecommerce-header .invoice-header-contact{
+		display: block;
+	}
+	.detail-col-car1{
+		width: 100%
+	}
+}
+@media (max-width: 575px) {
+	.invoice-table {
+		width: 100%;
+		caption-side: bottom;
+		border-collapse: collapse;
+		min-width: 500px;
+	}
+	.table-wrapper.agency-service-table, .table-wrapper {
+		overflow-x: auto;
+	}
+	.invoice-logo-content {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.invo-head-wrap.invoi-date-wrap {
+		margin-top: 2px;
+	}
+	.invo-head-content {
+		width: 100%
+	}
+	.travel-logo-sec-wrap{
+		padding-bottom: 15px;
+	}
+	.travel-txt{
+		display: none;
+	}
+	.paid-out-title-wrap, .movie-col-right {
+		padding-top: 20px;
+	}
+	.content-min-width {
+		padding: 30px 20px;
+	}
+	.container {
+		padding: 0 20px;
+	}
+	.invo-to-wrap, .invo-pay-to-wrap {
+		width: 100%;
+		text-align: left;
+	}
+	.invo-owner-address {
+		line-height: 22px;
+	}
+	.invo-to-owner {
+		margin: 2px 0;
+		font-size: 16px;
+	}
+	.invoice-table td {
+		padding: 12px 0;
+	}
+	.invo-addition-wrap {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+	.invo-add-info-content, .invo-bill-total, .movie-col-left, .movie-col-right,
+	.rest-payment-bill table{
+		width: 100%;
+	}
+	.invo-add-info-content {
+		position: relative;
+		order: 2;
+		padding-top: 10px;
+	}
+	.invo-bill-total {
+		position: relative;
+		order: 1;
+	}
+	.hotel-sub {
+		padding-left: 0px!important;
+	}
+	.invo-bill-total table {
+		width: 100%;
+	}
+	.invo-total-table .tax-row td {
+		padding: 8px 0;
+	}
+	.addi-info-title {
+		margin: 0 0 4px;
+	}
+	.invo-note-wrap {
+		display: flex;
+		align-items: flex-start;
+	}
+	.note-desc {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.booking-info {
+		margin: 5px 0;	
+	}
+	.content-min-width.bus-header .invoice-logo-content {
+		justify-content: space-between;
+		align-items: center;
+		flex-direction: row;
+	}
+	.content-min-width.bus-header .invoice-logo {
+		top: 0px;
+	}
+	.bus-detail-wrap .bus-type,.bus-detail-wrap .bus-tname{
+		width: 100%;
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.invoice-table.bus-detail-table .sno-wid {
+		width: 14%;
+	}
+	.invoice-table.bus-detail-table .re-price-wid {
+		width: 6%;
+	}
+	.invoice-table.bus-detail-table .re-qty-wid {
+		width: 4%;
+	}
+	.invoice-table.bus-detail-table .tota-wid {
+		width: 3%;
+	}
+	.invoice-timing-wrap {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+	.booking-info:before {
+		height: 29px;
+	}
+	.bus-detail-wrap {
+		grid-template-columns: repeat(2, 1fr);
+	}
+	.bus-detail-col {
+		border-bottom: 1px solid #888888;
+	}
+	.money-detail-wrap {
+		margin: 30px 0;
+	}
+	.bus-detail-col.seat-col{
+		border-bottom: 1px solid #888888;
+		padding-bottom: 12px;
+	}
+	.bus-conta-mail-wrap {
+		flex-wrap: wrap;
+		padding: 20px;
+	}
+	.bus-contact a, .bus-mail a {
+		font-size: 16px;
+	}
+	.content-min-width.bus-header {
+		padding: 30px 20px;
+	}
+	.bus-img {
+		display: none;
+	}
+	.content-min-width.bus-header .invoice-logo {
+		top: 0;
+		margin: 0 auto;
+	}
+	.payment-table-wrap {
+		padding: 10px 10px;
+	}
+	.payemnt-wid, .date-wid, .trans-wid, .amount-wid {
+		font-size: 14px;
+		text-align: center;
+		padding: 10px 1px;
+	}
+	.invo-paye-row .payment-desc{
+		text-align: center;
+	}
+	.payment-desc {
+		padding: 10px 4px 10px;
+	}
+	.hospital-table-wrap {
+		margin-top: 30px;
+	}
+	.payment-table-wrap {
+		overflow-x: auto;
+	}
+	.invo-payment-table {
+		width: 100%;
+		caption-side: bottom;
+		border-collapse: collapse;
+		min-width: 300px;
+	}
+	.payment-table-wrap.hotel-booking-wrap .invo-payment-table{
+		min-width: 430px;
+	}
+	.invoice-table.hospital-table .sno-wid {
+		width: 4%;
+	}
+	.invo-book-detail {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+	.invo-hotel-book-wrap {
+		padding-top: 30px;
+	}
+	.content-min-width.money-header {
+		padding: 24px 20px 24px;
+	}
+	.transfer-detail-wrap {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+	.left-money-transfer {
+		display: flex;
+		justify-content: flex-start;
+		width: 100%;
+		flex-wrap: wrap;
+	}
+	.left-money-top-row {
+		padding-right: 0px;
+		width: 100%;
+	}
+	.left-money-bottom-row, .mon-send-left-data, .mon-paid-left-data, .mon-send-right-data {
+		padding-right: 0;
+		width: 100%;
+	}
+	.content-min-width.money-header .invoice-logo-content {
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-between;
+	}
+	.money-img img {
+		height: 70px;
+	}
+	.mon-exchange-rate {
+		padding-bottom: 10px;
+	}
+	.right-money-transfer {
+		margin-top: 20px;
+	}
+	.transfer-wrap {
+		padding: 0 0 30px 0;
+	}
+	.mon-sent-content-wrap {
+		flex-wrap: wrap;
+	}
+	.movie-details-wrap {
+		flex-wrap: wrap;
+	}
+	.movie-img img {
+		width: 100%;
+		height: 100%;
+	}
+	.movie-details-wrap .movie-img {
+		margin: 0 auto;
+		text-align: center;
+	}
+	.payment-table-wrap.movie-detail-table-wrap {
+		margin-top: 30px;
+	}
+	.movie-details-wrap {
+		padding: 30px 0 0;
+	}
+	.table-wrapper.movie-details-table-wrapper {
+		padding: 10px 0 0px;
+	}
+	.invo-addition-wrap.movi-add-wrap .hotel-sub {
+		padding-left: 0px!important;
+	}
+	.movie-detail-col {
+		align-items: flex-start;
+	}
+	.invo-grand-total td {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.invoice-table.booker-table .re-qty-wid, .invoice-table.booker-table .tota-wid {
+		width: 3%;
+	}
+	.invoice-table.booker-table .re-price-wid {
+		width: 10%;
+	}
+	.invoice-table.booker-table .sno-wid {
+		width: 6%;
+	}
+	.invoice-table.movie-table .re-desc-wid {
+		width: 22%;
+	}
+	.invoice-header.stadium-header .invoice-logo {
+		margin: 0 auto;
+		text-align: center;
+	}
+	.invoice-header.stadium-header.content-min-width {
+		padding: 34px 20px;
+	}
+	.invo-bill-total.bus-invo-total {
+		width: 100%;
+	}
+	.flight-img img{
+		display: none;
+	}
+	.ecommerce-img{
+		text-align: right;
+	}
+	.phtotstudio-img {
+		text-align: right;
+	}
+	.photostudio-header .invoice-logo-content{
+		flex-direction: row;
+	}
+	.invoice-logo-content.hide {
+		flex-direction: row;
+		align-items: center;
+	}
+	a.contact_focus, a.email_focus{
+		font-size: 16px;
+	}
+	.invoice-timing-wrap.invoice-timing-wrap-flight{
+		padding: 20px 0;
+	}
+	.invo-car-book-wrap.invo-car-book-wrap{
+		padding-bottom: 30px;
+		padding-top: 30px;
+	}
+	.ecommerce-header {
+		padding: 20px 20px;
+	}
+	#student_invoice {
+		padding: 0;
+	}
+	.pf-data{
+		padding-bottom: 30px;
+	}
+	.student_header .invoice-logo-content{
+		flex-direction: row;
+	}
+	.student_header .invoice-header-contact.invoice-header-contact1{
+		flex-direction: row;
+	}
+	.mt-30{
+		margin-top: 10px;
+	}
+	.pf-data{
+		padding-bottom: 10px;
+	}
+	.coffee_header .invoice-logo-content{
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+	}
+	.coffee-shop-img{
+		text-align: right;
+	}
+	.coffee_header {
+		padding:0 0 0 20px;
+	}
+	.fitness-img{
+		text-align: right;
+	}
+	.photostudio-detail-wrap{
+		margin-top: 30px;
+	}
+	.invoice-table thead th.paddind-pt{
+		padding: 10px 17px;
+	}
+	.travel_header .invoice-logo {
+		margin: 0 auto;
+	}
+	.content-min-width.flight-header .invoice-logo {
+		margin: 0 auto;
+	}
+	.coffee-shop-back-img-one img {
+		display: none;
+	}
+	.p-0-coffee.mt{
+		margin-top: 0;
+	}
+	.coffee_header .invo-head-content{
+		padding-top: 0;
+	}
+}
+@media (max-width: 475px) {
+	.bus-img svg {
+		height: 80px;
+		margin-left: 18px;
+	}
+	.invoice-timing-wrap.invoice-timing-wrap-flight {
+		padding: 20px 0;
+	}
+	.fs{
+		font-size: 14px;
+	}
+	.invo-payment-table.invo-payment-table{
+		min-width: 480px;
+	}
+	.coffee-shop-back-img-one img{
+		width: 400px;
+	}
+	.fitness-img img{
+		width: auto;
+		height: 100px;
+	}
+	.bus-header-logo {
+		display: block;
+	}
+}
+@media (max-width: 450px){
+	.pink-img{
+		width: 100%;
+	}
+	.domain-img,
+	.domain-invoice .invoice-logo-content-domain:before,
+	.domain-invoice .invoice-logo-content-domain:after,
+	.domain-footer-image:after,
+	.domain-footer-image>div:after,
+	.domain-footer-image:before{
+		display: none;
+	}
+	.domain-invoice .invoice-logo.invoice-logo-domain:before{
+		background-color: #ff3f34;
+		background-image: none;
+	}
+	.domain-invoice .invoice-logo.invoice-logo-domain{
+		width: 100%;
+	}
+	.invo-add-info-content.invo-add-info-content-internet {
+		width: 100%;
+	}
+	.car-invoice .invoice-logo.width-70, .car-invoice .invo-head-content.width-30 {
+		width: 100%;
+	}
+	.invoice-logo-res{
+		display: none;
+	}
+	.car-invoice .invo-head-wrap {
+		justify-content: start;
+	}
+	.restaurant .invoice-logo-details.wid-50{
+		width: 100%;
+		padding: 20px 0;
+	}
+	.movie .invoice-owner-conte-wrap{
+		display: block;
+	}
+	.movie .payment-table-wrap{
+		margin-top: 30px;
+	}
+	.res-contact{
+		padding-top: 15px;
+	}
+	.restaurant .logo img{
+		width: 100%;
+	}
+	.agency1 .invoice-header-contact,
+	.hotel .invoice-header-contact,
+	.money-invoice .invoice-header-contact{
+		display: block;
+	}
+	.money-invoice .agency-contact-sec{
+		margin-top: 30px;
+	}
+	.agency1 .invo-cont-wrap:last-child,
+	.hotel .invo-cont-wrap:last-child,
+	.money-invoice .invo-cont-wrap:last-child{
+		margin-top: 15px;
+	}
+	h1.ecommerce-txt{
+		font-size: 30px;
+	}
+	.ecommerce-img-black{
+		display: none;
+	}
+	.ecommerce .bus-invo-no-date-wrap{
+		width: 100%;
+	}
+	.ecommerce .invoice-header-contact{
+		display: block;
+	}
+	.bus-txt{
+		font-size: 32px;
+		margin-top: 20px;
+	}
+	.blue-img2-bottom{
+		display: none;
+	}
+	.cleaning-blue-img-bottom{
+		margin-top: 30px;
+	}
+	.travel-invoice .invoice-header-contact{
+		flex-wrap: wrap;
+	}
+	.bus-invo-no-date-wrap-travel .bus-invo-num-travel{
+		display: block;
+	}
+	.internet .invo-head-wrap{
+		display: block;
+	}
+	.internet .internet-invoice{
+		justify-content: space-between;
+		padding-bottom: 40px;
+	}
+}
+@media (max-width: 390px) {
+	.invo-note-wrap {
+		flex-wrap: wrap;
+		text-align: center;
+	}
+	.money-txt{
+		display: none;
+	}
+	.pink-bg {
+		background-image: none;
+	}
+	.restaurant .res-pay-table .pay-type {
+		padding: 12px;
+	}
+	.hotel .invoice-owner-conte-wrap.pt-20 {
+		padding-top: 0;
+	}
+	.note-desc {
+		padding: 6px 0 0 2px;
+	}
+	.booking-info.column-one:before {
+		height: 44px;
+	}
+	.movie-detail-col .movie-name, .movie-detail-col .movie-tname  {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.fs{
+		line-height: 20px;
+	}
+	.detail-col-car{
+		padding: 10px;
+	}
+	.student_header .invoice-header-contact.invoice-header-contact1 {
+		flex-direction: column;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.coffee-shop-img img {
+		width: auto;
+		height: 90px;
+	}
+	.coffee-shop-back-img-one img{
+		width: 300px;
+	}
+	.domain-img img {
+		width: auto;
+		height: 80px;
+	}
+	h1.ecommerce-txt{
+		display: none;
+	}
+	.phtotstudio-img img{
+		display: none;
+	}
+	.fitness-img img{
+		display: none;
+	}
+	.black-footer-img-sec img,
+	.black-footer-img-sec:before{
+		display: none;
+	}
+	.internet-images{
+		margin-top: 30px;
+		padding-bottom: 30px;
+	}
+}
+@media (max-width: 340px) {
+	.movie-name.show-name {
+		width: 100px;
+	}
+	.rest-payment-bill td {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.bus-detail-col{
+		border: none;
+	}
+	.bus-detail-wrap {
+		grid-template-columns: repeat(1, 1fr);
+	}
+	.fitness-img img{
+		display: none;
+	}
+	.phtotstudio-img img{
+		display: none ;
+	}
+	.movie .invoice-logo-movie{
+		border-radius: 0 0px 0px 0px;
+	}
+	.signature-wrap-flight:before{
+		display: none;
+	}
+}
+
