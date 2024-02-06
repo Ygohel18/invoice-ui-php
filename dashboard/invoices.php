@@ -32,7 +32,7 @@
                                     <h5 class="card-title">Invoice</h5>
                                 </div>
                                 <div class="card-body">
-                                    <table id="invoice-table" class="display nowrap" style="width:100%">
+                                    <table id="invoice-table" class="display wrap" style="width:100%">
                                         <thead>
                                         <tr>
                                             <th>Id</th>
@@ -42,6 +42,7 @@
                                             <th>Status</th>
                                             <th>Issue Date</th>
                                             <th>Paid Date</th>
+                                            <th>Action</th>
                                         </tr>
                                         </thead>
                                         <tbody>
@@ -55,6 +56,7 @@
                                             <th>Status</th>
                                             <th>Issue Date</th>
                                             <th>Paid Date</th>
+                                            <th>Action</th>
                                         </tr>
                                         </tfoot>
                                     </table>
@@ -85,8 +87,9 @@
             var paidDate = status === 'Paid' ? faker.date.past(1, issueDate) : null;
 
             var receipt = `<a href="./receipt.php?id=${i}" target="_blanck">${invoiceNumber}</a>`;
+            var action = `<a href="./invoice-update.php?id=${i}">Edit</a>`;
 
-            data.push([i, receipt, totalAmount, name, status, issueDate.toISOString().split('T')[0], paidDate ? paidDate.toISOString().split('T')[0] : null]);
+            data.push([i, receipt, totalAmount, name, status, issueDate.toISOString().split('T')[0], paidDate ? paidDate.toISOString().split('T')[0] : null, action]);
         }
         return data;
     }
@@ -101,7 +104,8 @@
                 {title: 'Customer'},
                 {title: 'Status'},
                 {title: 'Issue Date'},
-                {title: 'Paid Date'}
+                {title: 'Paid Date'},
+                {title: 'Action'}
             ]
         });
     }

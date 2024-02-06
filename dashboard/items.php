@@ -72,7 +72,7 @@
             var itemName = faker.commerce.productName();
             var itemType = faker.random.arrayElement(['Digital', 'Physical', 'Service']);
             var status = Math.random() < 0.5 ? 'Active' : 'Inactive';
-            var action = `<a href="./item-edit.php?id=${i}">Edit</a>`;
+            var action = `<a href="./item-update.php?id=${i}">Edit</a>`;
             data.push([i, itemName, itemType,status, action]);
         }
         return data;

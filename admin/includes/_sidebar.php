@@ -36,17 +36,6 @@
                     </li>
                 </ul>
             </li>
-            <li id="side-article">
-                <a href="#"><i class="material-icons-two-tone">article</i>Blog<i class="material-icons has-sub-menu">keyboard_arrow_right</i></a>
-                <ul class="sub-menu">
-                    <li>
-                        <a href="./articles.php" id="side-article-all">All Article</a>
-                    </li>
-                    <li>
-                        <a href="./article-new.php" id="side-article-new">New Article</a>
-                    </li>
-                </ul>
-            </li>
             <li id="side-settings">
                 <a href="./settings.php"><i class="material-icons-two-tone">settings</i>Settings</a>
             </li>

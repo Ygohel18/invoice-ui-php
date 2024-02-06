@@ -18,9 +18,9 @@
                             <i class="material-icons">add</i>
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="addDropdownLink">
-                            <li><a class="dropdown-item" href="#">New Item</a></li>
-                            <li><a class="dropdown-item" href="#">New Customer</a></li>
-                            <li><a class="dropdown-item" href="#">Create Invoice</a></li>
+                            <li><a class="dropdown-item" href="./item-new.php">New Item</a></li>
+                            <li><a class="dropdown-item" href="./customer-new.php">New Customer</a></li>
+                            <li><a class="dropdown-item" href="./invoice-new.php">Create Invoice</a></li>
                         </ul>
                     </li>
                 </ul>

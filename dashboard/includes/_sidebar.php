@@ -12,7 +12,7 @@
     <div class="app-menu">
         <ul class="accordion-menu">
             <li class="sidebar-title">
-                Apps
+                Dashboard
             </li>
             <li id="side-dashboard">
                 <a href="./index.php"><i class="material-icons-two-tone">dashboard</i>Dashboard</a>

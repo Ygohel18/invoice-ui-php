@@ -12,15 +12,16 @@
 
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="./index.php">Dashboard</a></li>
-                            <li class="breadcrumb-item" aria-current="page">Settings</li>
+                            <li class="breadcrumb-item"><a href="./index.php">Admin</a></li>
+                            <li class="breadcrumb-item"><a href="./users.php">User</a></li>
+                            <li class="breadcrumb-item" aria-current="page">Update</li>
                         </ol>
                     </nav>
 
                     <div class="row">
                         <div class="col">
                             <div class="page-description">
-                                <h1>Settings</h1>
+                                <h1>Update User</h1>
                             </div>
                         </div>
                     </div>
@@ -29,7 +30,7 @@
                         <div class="col-md-6">
                             <div class="card">
                                 <div class="card-header">
-                                    <p>Basic Information</p>
+                                    <p>User Information</p>
                                 </div>
                                 <div class="card-body">
                                     <form class="row g-3">
@@ -46,7 +47,7 @@
                                         <div class="col-md-12">
                                             <label for="inputEmail4" class="form-label">Email</label>
                                             <input type="email" class="form-control" id="inputEmail4"
-                                                   placeholder="user@example.com">
+                                                   placeholder="username@example.com">
                                         </div>
                                         <div class="col-md-6">
                                             <label for="inputPincode" class="form-label">Country Code</label>
@@ -58,32 +59,23 @@
                                             <input type="tel" class="form-control" id="inputMobile"
                                                    placeholder="1234567890">
                                         </div>
-                                        <div class="col-12">
-                                            <button type="submit" class="btn btn-primary">Update Information</button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="card">
-                                <div class="card-header">
-                                    <p>Security</p>
-                                </div>
-                                <div class="card-body">
-                                    <form class="row g-3">
+
                                         <div class="col-md-12">
-                                            <label for="inputPassword" class="form-label">Current Password</label>
+                                            <label for="inputPassword" class="form-label">Set Password</label>
                                             <input type="password" class="form-control" id="inputPassword"
-                                                   placeholder="Current Password">
+                                                   placeholder="Strong Password">
                                         </div>
+
                                         <div class="col-md-12">
-                                            <label for="inputPasswordNew" class="form-label">New Password</label>
-                                            <input type="password" class="form-control" id="inputPasswordNew"
-                                                   placeholder="New Password">
+                                            <label for="inputType" class="form-label">User Type *</label>
+                                            <select id="inputType" class="form-select" required>
+                                                <option value="user" selected>User</option>
+                                                <option value="admin">Admin</option>
+                                            </select>
                                         </div>
+
                                         <div class="col-12">
-                                            <button type="submit" class="btn btn-primary">Update Password</button>
+                                            <button type="submit" class="btn btn-primary">Update User</button>
                                         </div>
                                     </form>
                                 </div>
@@ -98,7 +90,9 @@
 <?php include_once './includes/_footer.php'; ?>
 <script>
     $(document).ready(function () {
-        $("#side-settings").addClass("active-page");
+        $("#side-user").addClass("active-page close");
+        $("#side-user > a").addClass("active");
+        $('select').select2();
     });
 </script>
 </body>

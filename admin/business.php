@@ -75,7 +75,7 @@
             var category = faker.random.word().toLowerCase();
             var city = faker.address.city();
             var status = Math.random() < 0.5 ? 'Active' : 'Inactive';
-            var action = `<a href="./business-edit.php?id=${i}">Edit</a>`;
+            var action = `<a href="./business-update.php?id=${i}">Edit</a>`;
             data.push([i, businessName, category, city, status, action]);
         }
         return data;

@@ -14,14 +14,14 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="./index.php">Dashboard</a></li>
                             <li class="breadcrumb-item"><a href="./invoices.php">Invoice</a></li>
-                            <li class="breadcrumb-item" aria-current="page">New</li>
+                            <li class="breadcrumb-item" aria-current="page">Update</li>
                         </ol>
                     </nav>
 
                     <div class="row">
                         <div class="col">
                             <div class="page-description">
-                                <h1>New Invoice</h1>
+                                <h1>Update Invoice</h1>
                             </div>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                                         </div>
 
                                         <div class="col-12">
-                                            <button type="submit" class="btn btn-primary">Add Invoice</button>
+                                            <button type="submit" class="btn btn-primary">Update Invoice</button>
                                         </div>
                                     </div>
                                 </div>
@@ -218,10 +218,8 @@
 
 
     $(document).ready(function () {
-        $("#side-invoice").addClass("active-page open");
+        $("#side-invoice").addClass("active-page close");
         $("#side-invoice > a").addClass("active");
-        $("#side-invoice ul").attr("style", "");
-        $("#side-invoice-all").addClass("active");
         $('select').select2();
 
         $(".flatpickr2").flatpickr({

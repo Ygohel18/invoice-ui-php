@@ -74,7 +74,7 @@
             var countryCode = '91';
             var phoneNumber = faker.phone.phoneNumberFormat();
             var mobile = `${countryCode} ${phoneNumber}`;
-            var action = `<a href="./customer-edit.php?id=${i}">Edit</a>`;
+            var action = `<a href="./customer-update.php?id=${i}">Edit</a>`;
             data.push([i, name, email, mobile, action]);
         }
         return data;

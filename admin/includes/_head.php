@@ -8,7 +8,7 @@
     <!-- The above 6 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Neptune - Responsive Admin Dashboard Template</title>
+    <title>Invoice | Admin</title>
 
     <!-- Styles -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -28,7 +28,7 @@
 
     <!-- Theme Styles -->
     <link href="/assets/css/main.min.css" rel="stylesheet">
-    <link href="/assets/css/darktheme.css" rel="stylesheet">
+<!--    <link href="/assets/css/darktheme.css" rel="stylesheet">-->
     <link href="/assets/css/custom.css" rel="stylesheet">
 
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png"/>

@@ -70,7 +70,7 @@
                     var name = faker.name.findName();
                     var email = faker.internet.email().toLowerCase();
                     var status = Math.random() < 0.5 ? 'Active' : 'Inactive';
-                    var action = `<a href="./user-edit.php?id=${i}">Edit</a>`;
+                    var action = `<a href="./user-update.php?id=${i}">Edit</a>`;
                     data.push([i, name, email, status, action]);
                 }
                 return data;
